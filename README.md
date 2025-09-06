@@ -1,4 +1,7 @@
 ## 二萌╳Evan Profile
+
+<img width="284" height="284" alt="LOGO_profile" src="https://github.com/user-attachments/assets/47a8dfba-6459-4b5b-a719-e58868f291ce" />
+
 Name：Evan
 
 名字：二萌
